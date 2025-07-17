@@ -1,0 +1,25 @@
+# core language
+python>=3.10
+
+# array & numeric computing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# plotting & notebooks
+matplotlib>=3.7.0
+jupyterlab
+
+# system‐identification libraries
+sysidentpy>=0.6.0
+simbapy>=0.4.1
+pysindy>=1.7.5
+
+# control systems
+control>=0.10.0
+slycot>=0.6.0
+
+# ML & utilities
+torch>=2.0.0
+scikit-learn>=1.2.0
+tqdm>=4.65.0
